@@ -5,13 +5,10 @@ def main():
 
 
 def main2():
-<<<<<<< HEAD
 
-=======
->>>>>>> ho boy
+
     print("seb is da boss")
     print('yoohoo seb is the real boss')
-
 
 def watermelon():
     print("watermelon commit #1")
@@ -20,8 +17,8 @@ def watermelon():
 watermelon()
 def tomato():
     print("Second commit:")
-<<<<<<< HEAD
-    print("Second commit:" )
-=======
->>>>>>> ho boy
+  
+
+
+
 
