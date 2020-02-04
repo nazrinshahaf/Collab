@@ -5,7 +5,6 @@ def main():
 
 main()
 
-<<<<<<< HEAD
 def watermelon():
     print("watermelon commit #1")
     print("watermelon commit #2")
@@ -14,10 +13,8 @@ watermelon()
 
 def tomato():
     print("Second commit:" main().upper)
-=======
 
 def watermelon():
     print("watermelon commit #1")
 
 watermelon()
->>>>>>> watermelon first commit
