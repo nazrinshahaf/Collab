@@ -13,3 +13,8 @@ watermelon()
 
 def tomato():
     print("Second commit:" main().upper)
+
+def watermelon():
+    print("watermelon commit #1")
+
+watermelon()
