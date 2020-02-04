@@ -14,4 +14,7 @@ def watermelon():
 watermelon()
 def tomato():
     print("Second commit:")
+
+def tomato2:
+    print("what the fuck is happening")
   
