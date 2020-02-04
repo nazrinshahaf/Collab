@@ -1,4 +1,4 @@
-def main():
+def main(crap):
     print("first commit")
     print("naz is da boss")
     print('yoohoo seb')
