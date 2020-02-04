@@ -3,18 +3,22 @@ def main():
     print("naz is da boss")
     print('yoohoo seb')
 
-main()
+
+def main2():
+
+
+    print("seb is da boss")
+    print('yoohoo seb is the real boss')
 
 def watermelon():
     print("watermelon commit #1")
     print("watermelon commit #2")
 
 watermelon()
-
 def tomato():
-    print("Second commit:" main().upper)
+    print("Second commit:")
+  
 
-def watermelon():
-    print("watermelon commit #1")
 
-watermelon()
+
+
