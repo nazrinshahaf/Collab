@@ -1,6 +1,10 @@
 def main():
     print("first commit")
+<<<<<<< HEAD
     print("naz is da boss")
+=======
+    print('yoohoo seb')
+>>>>>>> added something into main
 
 main()
 
